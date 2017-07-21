@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yoshi/svn/repos/apmatoFeb/apmato/Android/Android-GPX-Framework/androidgpxframework/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="70427bb9c43d300a22cfb030b88ed07b291487b3">
+        <dex dex="/Users/yoshi/svn/repos/apmatoFeb/apmato/Android/Android-GPX-Framework/app/build/intermediates/pre-dexed/debug/classes_6b253191f066c8ebfac836e24e904dbc30348f62.jar" />
+    </item>
+
+</items>
